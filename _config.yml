@@ -1,15 +1,15 @@
 # Site settings
-title: Hanson
+title: ThinkingFatCat
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Hanson|Think Different"  
+description: "ThinkingFatCat|Think Different"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://songxin.github.io"  
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "SongXin"
+  email: songxin1973@gmail.com
   bio: ""
 
 # Data
@@ -17,11 +17,11 @@ gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
 douban_username:  
-twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+twitter_username: songxin1973
+github_username: songxin2014
+weibo_username: 沉思加菲猫
 facebook_username:
-zhihu_username: zhang-yi-sen-46
+zhihu_username: xin song
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -44,7 +44,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "hanson"
+      author: "songxin"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
